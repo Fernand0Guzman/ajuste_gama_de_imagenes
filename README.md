@@ -73,3 +73,10 @@ Valor de gamma 2.0
 #Codigo (SCRIP MATLAB)
 
 [ajuste gamma scrip.txt](https://github.com/Fernand0Guzman/ajuste_gama_de_imagenes/files/9669799/ajuste.gamma.scrip.txt)
+
+#Conclusiones
+
+El ajuste gamma sirve para modificar imagenes y mejorarla en si aumentando el brillo y la obscuridad dependiendo el caso ya que eso nos sirve
+primordialmente en el PDI(procesamiento digital de imagenes)
+Como pudimos ver esta formula nos sirvio bastante para analizar el tema de el ajuste gamma ya que nos permitio 
+aumentar el brillo de alguna imagenes obscuras o reducirlo de ser el caso.
