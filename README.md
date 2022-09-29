@@ -70,3 +70,6 @@ Valor de gamma 2.0
 
 ![MANOTAS rayos x](https://user-images.githubusercontent.com/114626285/192912661-4f36399a-3a3a-4434-a220-10d610dd9c8a.jpg)
 
+#Codigo (SCRIP MATLAB)
+
+[ajuste gamma scrip.txt](https://github.com/Fernand0Guzman/ajuste_gama_de_imagenes/files/9669799/ajuste.gamma.scrip.txt)
