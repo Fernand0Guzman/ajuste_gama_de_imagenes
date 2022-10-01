@@ -80,3 +80,5 @@ El ajuste gamma sirve para modificar imagenes y mejorarla en si aumentando el br
 primordialmente en el PDI(procesamiento digital de imagenes)
 Como pudimos ver esta formula nos sirvio bastante para analizar el tema de el ajuste gamma ya que nos permitio 
 aumentar el brillo de alguna imagenes obscuras o reducirlo de ser el caso.
+Matlab en este caso no sirvio de mucho ya que como este software tiene muchas utilidades practicas en el PDI pudimos observar de mejor manera las operaciones
+que se llevaron acabo dirante el proceso.
